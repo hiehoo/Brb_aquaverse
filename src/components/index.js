@@ -17,6 +17,7 @@ import { Stack } from "./Stack";
 import { Text } from "./Text";
 import { TextArea } from "./TextArea";
 import { PagerIndicator } from "./PagerIndicator";
+import { Slider } from "./Slider";
 export {
   Button,
   CheckBox,
@@ -37,4 +38,5 @@ export {
   Text,
   TextArea,
   PagerIndicator,
+  Slider,
 };
